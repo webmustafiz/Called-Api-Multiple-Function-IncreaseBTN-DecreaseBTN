@@ -1,0 +1,11 @@
+#counter{
+    font-size: 2rem;
+}
+#increase{
+    padding: 10px 20px;
+    margin: 2%;
+}
+#decrease{
+    padding: 10px 20px;
+    margin: 2%;
+}

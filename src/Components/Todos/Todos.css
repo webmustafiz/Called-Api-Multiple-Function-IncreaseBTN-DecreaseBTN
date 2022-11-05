@@ -1,0 +1,8 @@
+.todos{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.header{
+    background-color: crimson;
+    padding: 20px;
+}

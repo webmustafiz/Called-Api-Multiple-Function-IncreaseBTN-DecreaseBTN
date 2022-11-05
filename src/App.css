@@ -1,3 +1,11 @@
+body{
+  background-color: black;
+  color: white;
+}
+.header-first{
+  color: white;
+  text-align: center;
+}
 .App {
   text-align: center;
 }
